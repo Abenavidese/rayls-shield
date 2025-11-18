@@ -1,0 +1,10 @@
+{
+  "network": "raylsDevnet",
+  "chainId": 123123,
+  "contracts": {
+    "Groth16Verifier": "0xaF7B67b88128820Fae205A07aDC055ed509Bdb12",
+    "RaylsShield": "0x71E3a04c9Ecc624656334756f70dAAA1fc4F985D"
+  },
+  "raylsEndpoint": "0x0000000000000000000000000000000000000000",
+  "timestamp": "2025-11-18T22:13:35.410Z"
+}
